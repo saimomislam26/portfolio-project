@@ -1,0 +1,125 @@
+html{
+    scroll-behavior: smooth;
+}
+body{
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(128, 34, 221);
+}
+
+/* Navbar styling */
+.navbar{
+    background-color: crimson !important;
+}
+.design{
+    font-style:inherit;
+} 
+.design span{
+    color: white;
+}
+
+.collapse .navbar-nav .nav-item .nav-link:hover{
+     color: yellow;
+}
+
+
+/* banner styling */
+.ban-col{
+    margin-top: 220px;
+}
+.img-col{
+    margin-top: 100px;
+}
+
+/* about styling */
+.about-con{
+    /* border: 2px solid red;  */
+    margin-top: 100px;
+} 
+
+.pad{
+    padding-top: 80px;
+}
+
+.line{
+    color: red;
+}
+
+
+
+/* education styling */
+.edu-con{
+    /* border: 2px solid red; */
+    margin-top: 170px;
+} 
+.display{
+    color: red !important;
+    padding-top: 80px;
+}
+
+.text-circle {
+    height: 150px;
+    width: 150px;
+    background-color:red;
+    border-radius: 50%;
+  }
+
+.text-centr{
+    margin: auto;
+}
+
+/* project styling */
+.proj-col{
+    padding-top: 30px;
+}
+
+.text{
+    color: red;
+}
+
+
+ /* conatct me styling */
+ .contact-col{
+     padding-top: 100px;
+ }
+ .textcolor{
+     color: red;
+ }
+
+ .icon i{
+     color:crimson;
+     font-size: 25px;
+ }
+  
+ .colpad1{
+     padding-top: 100px;
+ }
+ .colpad2{
+     padding-left: 200px;
+ }
+
+ /* footer styling */
+
+.circle1{
+    height: 40px;
+    width: 40px;
+    border-radius: 50%;
+    background-color: white;
+    text-align: center;
+    color: rgb(118, 118, 230);
+    font-size: 28px;
+    display: inline-block;
+}
+
+.circle1 a:hover .fa{
+    transform: scale(1.2);
+}
+
+.circle1 a i{
+    transition: all .3s linear;
+}
+
+.background{
+    background-color:black;
+    /* border: solid 2px red; */
+}
+
