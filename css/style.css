@@ -4,6 +4,7 @@ html{
 body{
     font-family: 'Open Sans', sans-serif;
     background-color: rgb(128, 34, 221);
+    
 }
 
 /* Navbar styling */
@@ -23,6 +24,9 @@ body{
 
 
 /* banner styling */
+.design1 span{
+    color:crimson;
+}
 .ban-col{
     margin-top: 220px;
 }
